@@ -1,0 +1,5 @@
+_ Truy cập đến 1 thư mục
+_ Nhập tên file
+_ Tạo ra file:
+    + Tồn tại => Error!
+    + Chưa tồn tại => Tạo file mới

@@ -1,0 +1,12 @@
+Bài tập về nhập/xuất:
+    _ File(io)
+    _ Files(nio)
+
+Bài tập:
+    _ Tạo 1 cửa sổ cho phép chọn 1 thư mục hoặc tập tin
+    _ Nếu là thư mục thì sẽ hiển thị cây thư mục con
+    _ Ứng dụng cho phép thực hiện:
+        + Rename
+        + Xoá thư mục/tập tin (xoá hết)
+        + Copy (hiển thị cửa sổ cho phép chọn vị trí đích)
+        + Move (di chuyển sang vị trí mới)
